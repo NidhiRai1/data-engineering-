@@ -1,0 +1,8 @@
+
+--relation dadtabase - creat a relation between table of data inside database .
+ sQL - structure query language  creat , update and delete db .
+row is refered as record and coloum as field  , no. of row is unlimited were as no. of coloum are limited .
+----table/row/col name is lower case and no space .
+twp col name are not same 
+
+unique identifier -nname are not unique indentifier 
